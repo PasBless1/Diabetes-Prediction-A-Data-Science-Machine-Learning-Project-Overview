@@ -1,4 +1,4 @@
-# Diabetes-Prediction-A-Data-Science-Machine-Learning-Project-Overview
+# Diabetes Prediction: A Data Science / Machine Learning Project Overview
 This project aims to predict the onset of diabetes using a dataset that includes various health and lifestyle parameters. The dataset contains the following key features:
 
 - **Pregnancies**: Number of pregnancies a person has had.
